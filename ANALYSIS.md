@@ -60,7 +60,7 @@ In simulations starting in 2018 or later, the strategy consistently underperform
 
 ### 3.3. The Most Recent Environment (The "Re-Validate")
 
-In simulations starting in 2024, the strategy again outperformed the SPY.
+In simulations starting in 2024, the strategy again outperformed the SPY benchmark.
 
 *   **Hypothesis:** After the dramatic market shift centered around 2020, the market has returned to a stable upward trend similar to that before 2018. By selecting portfolio composition based on performance over the past year and rebalancing it annually by analyzing performance over the past three years, this strategy can more effectively select sustainable investment assets in a market environment that is returning to stability. However, the long-term performance and stability of portfolios built through this strategy need time to be verified.
 
