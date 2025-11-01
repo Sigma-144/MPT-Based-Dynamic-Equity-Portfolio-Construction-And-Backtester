@@ -1,0 +1,200 @@
+==============================================================================
+--- SIMULATION PERIOD: 2006-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '1127.97%', 'Annualized Return': '13.54%', 'Annualized Volatility': '13.81%', 'Sharpe Ratio': '0.8677'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '670.12%', 'Annualized Return': '10.89%', 'Annualized Volatility': '15.15%', 'Sharpe Ratio': '0.6159'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2007-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '804.49%', 'Annualized Return': '12.46%', 'Annualized Volatility': '15.52%', 'Sharpe Ratio': '0.7135'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '570.66%', 'Annualized Return': '10.68%', 'Annualized Volatility': '15.50%', 'Sharpe Ratio': '0.5993'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2008-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '800.19%', 'Annualized Return': '13.18%', 'Annualized Volatility': '15.54%', 'Sharpe Ratio': '0.7679'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '589.09%', 'Annualized Return': '11.49%', 'Annualized Volatility': '15.69%', 'Sharpe Ratio': '0.6526'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2009-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '967.17%', 'Annualized Return': '15.18%', 'Annualized Volatility': '13.12%', 'Sharpe Ratio': '1.0616'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '1015.97%', 'Annualized Return': '15.49%', 'Annualized Volatility': '14.79%', 'Sharpe Ratio': '0.9622'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2010-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '1026.72%', 'Annualized Return': '16.62%', 'Annualized Volatility': '14.74%', 'Sharpe Ratio': '1.0375'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '741.28%', 'Annualized Return': '14.48%', 'Annualized Volatility': '14.39%', 'Sharpe Ratio': '0.9135'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2011-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '701.07%', 'Annualized Return': '15.15%', 'Annualized Volatility': '13.69%', 'Sharpe Ratio': '1.0035'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '588.57%', 'Annualized Return': '13.98%', 'Annualized Volatility': '14.13%', 'Sharpe Ratio': '0.8889'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2012-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '482.84%', 'Annualized Return': '13.68%', 'Annualized Volatility': '12.44%', 'Sharpe Ratio': '0.9783'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '560.86%', 'Annualized Return': '14.72%', 'Annualized Volatility': '13.99%', 'Sharpe Ratio': '0.9440'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2013-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '386.67%', 'Annualized Return': '13.21%', 'Annualized Volatility': '14.12%', 'Sharpe Ratio': '0.8208'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '467.15%', 'Annualized Return': '14.58%', 'Annualized Volatility': '14.25%', 'Sharpe Ratio': '0.9096'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2014-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '278.72%', 'Annualized Return': '12.00%', 'Annualized Volatility': '14.62%', 'Sharpe Ratio': '0.7008'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '367.06%', 'Annualized Return': '14.02%', 'Annualized Volatility': '14.58%', 'Sharpe Ratio': '0.8409'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2015-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '363.77%', 'Annualized Return': '15.34%', 'Annualized Volatility': '15.83%', 'Sharpe Ratio': '0.8479'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '309.26%', 'Annualized Return': '14.01%', 'Annualized Volatility': '15.07%', 'Sharpe Ratio': '0.8021'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2016-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '593.68%', 'Annualized Return': '21.98%', 'Annualized Volatility': '16.90%', 'Sharpe Ratio': '1.1753'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '312.84%', 'Annualized Return': '15.65%', 'Annualized Volatility': '15.13%', 'Sharpe Ratio': '0.8949'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2017-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '350.72%', 'Annualized Return': '18.78%', 'Annualized Volatility': '16.86%', 'Sharpe Ratio': '0.9761'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '244.11%', 'Annualized Return': '15.17%', 'Annualized Volatility': '15.77%', 'Sharpe Ratio': '0.8149'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2018-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '108.11%', 'Annualized Return': '9.92%', 'Annualized Volatility': '17.50%', 'Sharpe Ratio': '0.4246'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '172.44%', 'Annualized Return': '13.81%', 'Annualized Volatility': '16.63%', 'Sharpe Ratio': '0.6805'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2019-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '130.50%', 'Annualized Return': '13.17%', 'Annualized Volatility': '15.13%', 'Sharpe Ratio': '0.7012'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '179.22%', 'Annualized Return': '16.43%', 'Annualized Volatility': '16.67%', 'Sharpe Ratio': '0.8318'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2020-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '48.97%', 'Annualized Return': '7.18%', 'Annualized Volatility': '15.74%', 'Sharpe Ratio': '0.2864'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '129.91%', 'Annualized Return': '15.58%', 'Annualized Volatility': '17.48%', 'Sharpe Ratio': '0.7386'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2021-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '88.52%', 'Annualized Return': '14.28%', 'Annualized Volatility': '18.12%', 'Sharpe Ratio': '0.6121'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '96.21%', 'Annualized Return': '15.25%', 'Annualized Volatility': '15.48%', 'Sharpe Ratio': '0.7789'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2022-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '32.25%', 'Annualized Return': '7.74%', 'Annualized Volatility': '15.53%', 'Sharpe Ratio': '0.2391'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '59.27%', 'Annualized Return': '13.21%', 'Annualized Volatility': '16.15%', 'Sharpe Ratio': '0.5689'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2023-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '40.08%', 'Annualized Return': '13.04%', 'Annualized Volatility': '11.57%', 'Sharpe Ratio': '0.7257'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '73.47%', 'Annualized Return': '22.18%', 'Annualized Volatility': '12.10%', 'Sharpe Ratio': '1.4490'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2024-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '129.28%', 'Annualized Return': '60.66%', 'Annualized Volatility': '26.91%', 'Sharpe Ratio': '2.0891'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '43.84%', 'Annualized Return': '23.09%', 'Annualized Volatility': '11.25%', 'Sharpe Ratio': '1.6574'}
+
+==============================================================================
+--- SIMULATION PERIOD: 2025-01-01 to 2025-10-31 ---
+==============================================================================
+
+--- Dynamic Portfolio (Core-Satellite with Drawdown Control) ---
+{'Cumulative Return': '23.95%', 'Annualized Return': '33.14%', 'Annualized Volatility': '12.20%', 'Sharpe Ratio': '2.3845'}
+
+--- SPY Benchmark (Buy & Hold) ---
+{'Cumulative Return': '13.95%', 'Annualized Return': '19.02%', 'Annualized Volatility': '12.54%', 'Sharpe Ratio': '1.1937'}
+
