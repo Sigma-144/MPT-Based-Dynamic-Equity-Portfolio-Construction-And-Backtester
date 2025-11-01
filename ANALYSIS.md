@@ -58,7 +58,13 @@ In simulations starting in 2018 or later, the strategy consistently underperform
 
 *   **Hypothesis:** This market regime was heavily dominated by a small number of mega-cap technology stocks (e.g., FAANG). Because the SPY is a market-cap-weighted index, it benefited immensely from the meteoric rise of these few companies. The dynamic strategy's **5% diversification constraint**, while a strength in other periods, became a structural impediment to keeping pace. It was mathematically prevented from having the same level of exposure to the market's primary growth drivers.
 
-### 3.3. Volatility Profile
+### 3.3. The Most Recent Environment (The "Re-Validate")
+
+In simulations starting in 2024, the strategy again outperformed the SPY.
+
+*   **Hypothesis:** After the dramatic market shift centered around 2020, the market has returned to a stable upward trend similar to that before 2018. By selecting portfolio composition based on performance over the past year and rebalancing it annually by analyzing performance over the past three years, this strategy can more effectively select sustainable investment assets in a market environment that is returning to stability. However, the long-term performance and stability of portfolios built through this strategy need time to be verified.
+
+### 3.4. Volatility Profile
 
 Across most long-term simulations, the dynamic portfolio exhibited lower annualized volatility compared to the SPY benchmark. This suggests that the combination of MPT-based diversification and the drawdown control mechanism was effective at smoothing returns and managing risk, even if it sometimes came at the cost of capturing the full upside of a concentrated market.
 
